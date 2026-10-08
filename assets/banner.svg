@@ -21,13 +21,41 @@
 <circle cx="1157" cy="215" r="157" fill="none" stroke="#5ABCCA" stroke-opacity=".12" stroke-width="1.5"/>
 <circle cx="1157" cy="215" r="120" fill="none" stroke="#5ABCCA" stroke-opacity=".18" stroke-width="1.5" stroke-dasharray="7 11"/>
 <circle cx="1157" cy="215" r="86" fill="#101E30" stroke="#2A5971" stroke-width="1.5"/>
-<rect x="1106" y="141" width="102" height="152" rx="19" fill="#101E30" stroke="#62C8C8" stroke-width="3"/>
-<rect x="1115" y="153" width="84" height="120" rx="11" fill="#152D40"/>
-<rect x="1141" y="146" width="32" height="4" rx="2" fill="#6E95A8"/>
-<path d="M1128 212L1168 174H1188L1150 212H1128Z" fill="#5DDBE5"/>
-<path d="M1150 213L1170 233H1191L1170 212H1150Z" fill="#52B6E9"/>
-<path d="M1144 234L1165 255H1187L1165 234H1144Z" fill="#257AB6"/>
-<circle cx="1157" cy="282" r="3" fill="#62899E"/>
+<!-- iPhone-inspired device illustration: native Dynamic Island, screen, dock and cameras -->
+<g aria-label="iPhone illustration">
+  <rect x="1054" y="147" width="108" height="192" rx="24" fill="#475468" stroke="#A4B0BE" stroke-width="3"/>
+  <rect x="1059" y="152" width="98" height="182" rx="21" fill="#6D7C8E" stroke="#2D4056"/>
+  <rect x="1069" y="161" width="75" height="80" rx="19" fill="#516274" stroke="#8498AD"/>
+  <circle cx="1089" cy="181" r="15" fill="#192C40" stroke="#9CACC0" stroke-width="3"/>
+  <circle cx="1125" cy="215" r="15" fill="#192C40" stroke="#9CACC0" stroke-width="3"/>
+  <circle cx="1089" cy="220" r="15" fill="#192C40" stroke="#9CACC0" stroke-width="3"/>
+  <circle cx="1089" cy="181" r="6" fill="#335B72"/>
+  <circle cx="1125" cy="215" r="6" fill="#335B72"/>
+  <circle cx="1089" cy="220" r="6" fill="#335B72"/>
+  <circle cx="1125" cy="177" r="3.5" fill="#C8D3DD"/>
+  <rect x="1111" y="100" width="138" height="243" rx="30" fill="#080E18" stroke="#B6C8D7" stroke-width="4"/>
+  <rect x="1118" y="108" width="124" height="228" rx="24" fill="#102138"/>
+  <path d="M1121 240 C1142 165 1183 142 1240 162 V312 Q1240 334 1219 334 H1141 Q1120 334 1120 311Z" fill="#14618A" opacity=".82"/>
+  <path d="M1120 292 C1149 234 1187 223 1241 250 V312 Q1241 334 1219 334 H1141 Q1120 334 1120 311Z" fill="#2CBEC5" opacity=".76"/>
+  <path d="M1120 298 C1158 266 1202 276 1241 294 V313 Q1241 334 1220 334 H1141 Q1120 334 1120 312Z" fill="#1A446D" opacity=".94"/>
+  <rect x="1152" y="114" width="58" height="16" rx="8" fill="#04070C"/>
+  <circle cx="1201" cy="122" r="2" fill="#222E43"/>
+  <text x="1134" y="129" fill="#F2FAFE" font-size="10" font-weight="700" font-family="Arial,sans-serif">9:41</text>
+  <text x="1132" y="173" fill="#EFF7FB" font-size="17" font-weight="700" font-family="Arial,sans-serif">Hello.</text>
+  <text x="1132" y="190" fill="#CFDFE9" font-size="9" font-family="Arial,sans-serif">Let's build something.</text>
+  <rect x="1131" y="202" width="96" height="34" rx="8" fill="#1A304D" fill-opacity=".86" stroke="#5DB5C7" stroke-opacity=".6"/>
+  <rect x="1141" y="211" width="19" height="17" rx="5" fill="#2CB5BE"/>
+  <path d="M1147 216 L1150 219 L1156 213" stroke="#E5FAF7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="1166" y="217" fill="#EBF9FC" font-size="8" font-weight="700" font-family="Arial,sans-serif">Flutter</text>
+  <text x="1166" y="227" fill="#AFC6D7" font-size="6.8" font-family="Arial,sans-serif">Mobile apps</text>
+  <rect x="1132" y="295" width="96" height="28" rx="11" fill="#D4E5ED" fill-opacity=".18"/>
+  <rect x="1142" y="302" width="15" height="15" rx="5" fill="#66BDF0"/>
+  <rect x="1165" y="302" width="15" height="15" rx="5" fill="#48D5BA"/>
+  <rect x="1188" y="302" width="15" height="15" rx="5" fill="#8492F7"/>
+  <rect x="1211" y="302" width="9" height="15" rx="4.5" fill="#E2B77E"/>
+  <rect x="1156" y="328" width="51" height="3" rx="1.5" fill="#DCEAF0" fill-opacity=".8"/>
+  <rect x="1247" y="170" width="4" height="37" rx="2" fill="#A5B9CC"/>
+</g>
 <circle cx="1316" cy="116" r="6" fill="#4EE1D2"/><circle cx="1003" cy="311" r="5" fill="#598EFD"/>
 <rect x="945" y="92" width="117" height="29" rx="14" fill="#132B39" stroke="#275A67" stroke-width="1" />
 <text x="964" y="111" fill="#73D7D2" font-size="12" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.5">BUILD</text>
