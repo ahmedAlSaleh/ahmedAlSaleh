@@ -17,6 +17,24 @@
 <rect x="157" y="280" width="106" height="34" rx="17" fill="#132438" stroke="#284157" stroke-width="1" /><text x="175" y="303" fill="#BCD2E1" font-size="13" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.3">Node.js</text>
 <rect x="275" y="280" width="117" height="34" rx="17" fill="#132438" stroke="#284157" stroke-width="1" /><text x="293" y="303" fill="#75DCC5" font-size="13" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.3">Supabase</text>
 <rect x="404" y="280" width="105" height="34" rx="17" fill="#132438" stroke="#284157" stroke-width="1" /><text x="422" y="303" fill="#B3C8FC" font-size="13" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.3">AI APIs</text>
+<!-- Mobile learning feature icons -->
+<g>
+<rect x="580" y="100" width="162" height="60" rx="15" fill="#142A3C" stroke="#315C6A"/>
+<path d="M600 114 H618 L626 122 V145 H600Z" stroke="#64D7D3" stroke-width="2" fill="none" stroke-linejoin="round"/>
+<path d="M617 114 V123 H626 M606 131 H619 M606 136 H618" stroke="#64D7D3" stroke-width="1.6" fill="none"/>
+<text x="638" y="126" font-size="13" font-weight="700" fill="#E6FAFF" font-family="Arial,sans-serif">PDF</text>
+<text x="638" y="142" font-size="10" fill="#97B8C8" font-family="Arial,sans-serif">Study notes</text>
+<rect x="580" y="187" width="162" height="60" rx="15" fill="#142A3C" stroke="#315C6A"/>
+<path d="M610 198 L613 208 L623 211 L613 214 L610 224 L607 214 L597 211 L607 208Z" fill="#5CDFD6"/>
+<circle cx="624" cy="199" r="3" fill="#9DAFF8"/>
+<circle cx="597" cy="227" r="2.5" fill="#7FBCE7"/>
+<text x="638" y="213" font-size="13" font-weight="700" fill="#E6FAFF" font-family="Arial,sans-serif">AI Quiz</text>
+<text x="638" y="229" font-size="10" fill="#97B8C8" font-family="Arial,sans-serif">Questions</text>
+<path d="M746 130 H753" stroke="#43858E" stroke-width="2" stroke-linecap="round"/>
+<circle cx="751" cy="130" r="3" fill="#58DACE">
+  <animate attributeName="opacity" values="1;0.45;1" dur="3s" repeatCount="indefinite"/>
+</circle>
+</g>
 <g>
 <rect x="866" y="26" width="221" height="311" rx="29" fill="#080F1A" stroke="#40607D" stroke-width="2" />
 <rect x="877" y="41" width="199" height="280" rx="20" fill="#10233A" stroke="none" stroke-width="1" />
