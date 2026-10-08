@@ -16,6 +16,19 @@
 <rect x="51" y="280" width="96" height="34" rx="17" fill="#132438" stroke="#284157" stroke-width="1" /><text x="69" y="303" fill="#EAF2F9" font-size="13" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.3">Next.js</text>
 <rect x="159" y="280" width="128" height="34" rx="17" fill="#132438" stroke="#284157" stroke-width="1" /><text x="177" y="303" fill="#AFCCFF" font-size="13" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.3">TypeScript</text>
 <rect x="299" y="280" width="139" height="34" rx="17" fill="#132438" stroke="#284157" stroke-width="1" /><text x="317" y="303" fill="#A4E8E0" font-size="13" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.3">GitHub Pages</text>
+<!-- Engineering icons: code and deployment -->
+<g>
+<rect x="539" y="116" width="79" height="75" rx="17" fill="#17283D" stroke="#3B6882"/>
+<path d="M565 137 L552 153 L565 168 M594 137 L607 153 L594 168" fill="none" stroke="#78CDEB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M585 135 L575 171" fill="none" stroke="#5FE0D2" stroke-width="4" stroke-linecap="round"/>
+<rect x="540" y="211" width="79" height="75" rx="17" fill="#17283D" stroke="#3B6882"/>
+<path d="M554 249 H605 M581 234 V266" stroke="#8CBBF5" stroke-width="3" stroke-linecap="round"/>
+<circle cx="553" cy="249" r="5" fill="#4DE0D0"/>
+<circle cx="605" cy="249" r="5" fill="#81A7F7"/>
+<circle cx="581" cy="233" r="5" fill="#81A7F7"/>
+<circle cx="581" cy="266" r="5" fill="#4DE0D0"/>
+<path d="M620 152 L641 136 M620 249 L641 264" stroke="#3C6F83" stroke-width="1.5" stroke-dasharray="4 5"/>
+</g>
 <rect x="649" y="53" width="492" height="255" rx="18" fill="#0A1320" stroke="#476079" stroke-width="2" />
 <rect x="649" y="53" width="492" height="34" rx="14" fill="#172B3D" stroke="none" stroke-width="1" />
 <rect x="649" y="70" width="492" height="17" rx="0" fill="#172B3D" stroke="none" stroke-width="1" />
