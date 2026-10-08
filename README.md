@@ -4,9 +4,9 @@
 
 <br />
 
-**Software Engineer** · Flutter & Mobile · Node.js & Backend · AI Integration
+**Mobile & Software Engineer** · Flutter / Dart · Backend · AI Integration
 
-<sub>I build dependable applications and digital products — from the mobile experience to the backend and AI features.</sub>
+<sub>I build production-focused mobile applications for Android and iOS, with the backend systems and AI capabilities behind them.</sub>
 
 <br /><br />
 
@@ -18,34 +18,68 @@
 
 <br />
 
-### What I work with
+### Tech stack
 
-<table>
-  <tr>
-    <td width="19%"><b>01 / Mobile</b></td>
-    <td>Flutter · Dart · Firebase · Mobile UI · Maps &amp; Notifications</td>
-  </tr>
-  <tr>
-    <td><b>02 / Backend</b></td>
-    <td>Node.js · TypeScript · Express · REST APIs · Supabase · MySQL</td>
-  </tr>
-  <tr>
-    <td><b>03 / AI</b></td>
-    <td>LLM APIs · PDF processing · AI-assisted workflows · RAG</td>
-  </tr>
-  <tr>
-    <td><b>04 / Web &amp; DevOps</b></td>
-    <td>Next.js · React · Docker · Git · CI/CD</td>
-  </tr>
-</table>
+<sub>**Mobile-first engineering**, supported by backend systems, AI integrations, and web delivery.</sub>
+
+#### 📱 Mobile application development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,android,androidstudio,apple,firebase&amp;theme=dark" alt="Flutter, Dart, Android, Android Studio, Apple iOS and Firebase technology icons" />
 
 <br />
 
-### Selected work
+**Flutter & Dart** · Android & iOS · Cross-platform apps · Firebase · Maps · Push notifications · Real-time features
+
+</div>
+
+#### ⚙️ Backend, APIs & cloud
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,express,nestjs,supabase,mysql&amp;theme=dark" alt="Node.js, TypeScript, Express, NestJS, Supabase and MySQL technology icons" />
+
+<br />
+
+**Node.js & TypeScript** · REST APIs · Authentication · WebSockets · Databases · Server-side architecture
+
+</div>
+
+#### 🤖 AI engineering & integration
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM_APIs-202D3D?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="LLM APIs" />
+<img src="https://img.shields.io/badge/Google_Gemini-202D3D?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=8AA8FF" alt="Google Gemini" />
+<img src="https://img.shields.io/badge/RAG-202D3D?style=for-the-badge&amp;logo=semanticweb&amp;logoColor=54D3C3" alt="Retrieval-augmented generation" />
+<img src="https://img.shields.io/badge/PDF_%26_AI-202D3D?style=for-the-badge&amp;logo=adobeacrobatreader&amp;logoColor=E8A0A0" alt="AI-assisted PDF processing" />
+
+<br />
+
+LLM integration · Document processing · AI-powered study tools · RAG workflows
+
+</div>
+
+#### 🌐 Web development & engineering tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,git,github,docker,vscode,postman&amp;theme=dark" alt="React, Next.js, Git, GitHub, Docker, Visual Studio Code and Postman icons" />
+
+<br />
+
+React · Next.js · Git · GitHub · Docker · API testing · CI/CD
+
+</div>
+
+<br />
+
+### Featured applications & projects
 
 <a href="https://play.google.com/store/apps/details?id=com.revizo.ahmed.dose.programmik.www.mobile_app"><img src="./assets/cards/revizo.svg" alt="Revizo — AI-powered mobile learning app illustration" width="100%" /></a>
 
-**Revizo** — AI-assisted study experience built with Flutter, Node.js / TypeScript and Supabase. Students can work with PDF learning materials, summaries and practice questions.  
+**Revizo · Flutter Mobile App** — AI-assisted study experience built with Flutter, Node.js / TypeScript and Supabase. Students can work with PDF learning materials, summaries and practice questions.  
 [View on Google Play ↗](https://play.google.com/store/apps/details?id=com.revizo.ahmed.dose.programmik.www.mobile_app) &nbsp;·&nbsp; <sub>Source code is private.</sub>
 
 <br />
