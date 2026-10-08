@@ -1,169 +1,90 @@
 <div align="center">
 
-# Ahmed Al-Saleh
-### Software Engineer · Mobile & Backend · AI Integration
+<img src="./assets/banner.svg" alt="Ahmed Al-Saleh — Software Engineer, Mobile, Backend and AI Integration" width="100%" />
 
-**Building mobile products, reliable APIs, and practical AI-powered experiences.**
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-16A085?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedalsaleh.github.io/my-portfolio/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Asmlahmd15@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/963992086301)
+**Software Engineer** · Flutter & Mobile · Node.js & Backend · AI Integration
 
-</div>
+<sub>I build dependable applications and digital products — from the mobile experience to the backend and AI features.</sub>
 
----
+<br /><br />
 
-## About me
-
-I'm a software engineer focused on turning ideas into usable products — from Flutter applications and backend APIs to AI integrations and production deployment.
-
-- **Mobile:** Flutter, Dart, Android & iOS
-- **Backend:** Node.js, TypeScript, Express, REST APIs
-- **Web:** React, Next.js, JavaScript / TypeScript
-- **Cloud & data:** Firebase, Supabase, MySQL, Docker
-- **Product features:** authentication, maps, notifications, AI-assisted workflows
-- **Available for:** remote engineering roles and selected freelance projects
-
-## Tech stack
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://ahmedalsaleh.github.io/my-portfolio/">Portfolio ↗</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:Asmlahmd15@gmail.com">Email ↗</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://wa.me/963992086301">WhatsApp ↗</a>
 
 </div>
 
-## Featured product
+<br />
+
+### What I work with
 
 <table>
-<tr>
-<td width="100%">
-
-### 🎓 Revizo — AI-assisted learning
-
-A mobile learning product built around PDF study materials, AI-generated summaries, practice questions, and multiple-choice exams.
-
-**My work:** Flutter mobile application, Node.js / TypeScript backend, Supabase and AI integration.
-
-[![Google Play](https://img.shields.io/badge/Google_Play-View_App-16A085?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.revizo.ahmed.dose.programmik.www.mobile_app)
-
-<sub>The application is featured here as a product; its source repository is private.</sub>
-
-</td>
-</tr>
+  <tr>
+    <td width="19%"><b>01 / Mobile</b></td>
+    <td>Flutter · Dart · Firebase · Mobile UI · Maps &amp; Notifications</td>
+  </tr>
+  <tr>
+    <td><b>02 / Backend</b></td>
+    <td>Node.js · TypeScript · Express · REST APIs · Supabase · MySQL</td>
+  </tr>
+  <tr>
+    <td><b>03 / AI</b></td>
+    <td>LLM APIs · PDF processing · AI-assisted workflows · RAG</td>
+  </tr>
+  <tr>
+    <td><b>04 / Web &amp; DevOps</b></td>
+    <td>Next.js · React · Docker · Git · CI/CD</td>
+  </tr>
 </table>
 
-## Selected projects
+<br />
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Selected work
 
-### 🛒 Souqli — Backend API
-Node.js, Express and MySQL backend with JWT authentication, role-based access control and REST APIs.
+<a href="https://play.google.com/store/apps/details?id=com.revizo.ahmed.dose.programmik.www.mobile_app"><img src="./assets/cards/revizo.svg" alt="Revizo — AI-powered mobile learning app illustration" width="100%" /></a>
 
-[View repository →](https://github.com/ahmedAlSaleh/souqli_bscckend)
+**Revizo** — AI-assisted study experience built with Flutter, Node.js / TypeScript and Supabase. Students can work with PDF learning materials, summaries and practice questions.  
+[View on Google Play ↗](https://play.google.com/store/apps/details?id=com.revizo.ahmed.dose.programmik.www.mobile_app) &nbsp;·&nbsp; <sub>Source code is private.</sub>
 
-</td>
-<td width="50%" valign="top">
+<br />
 
-### 🧩 Souqli — Admin Panel
-An admin-panel repository associated with the Souqli project.
+<a href="https://ahmedalsaleh.github.io/programmik/"><img src="./assets/cards/programmik.svg" alt="Programmik — modern Next.js website illustration" width="100%" /></a>
 
-[View repository →](https://github.com/ahmedAlSaleh/souqli-admin-panel)
+**Programmik** — Next.js website showcasing digital services, built with TypeScript and published via GitHub Pages.  
+[Live website ↗](https://ahmedalsaleh.github.io/programmik/) &nbsp;·&nbsp; [Source code ↗](https://github.com/ahmedAlSaleh/programmik)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br />
 
-### 🌐 Programmik
-A Next.js website with a GitHub Pages static deployment.
+### Other projects
 
-[Source code →](https://github.com/ahmedAlSaleh/programmik) · [Live site →](https://ahmedalsaleh.github.io/programmik/)
+| Project | Focus |
+| :--- | :--- |
+| [Souqli Backend API](https://github.com/ahmedAlSaleh/souqli_bscckend) | Node.js · Express · MySQL · JWT · RBAC |
+| [Souqli Admin Panel](https://github.com/ahmedAlSaleh/souqli-admin-panel) | Administration interface |
+| [Al Qaisar Restaurant](https://github.com/ahmedAlSaleh/Al-Qaisar-Restaurant) | Restaurant website |
+| [Al Rayyan Restaurant](https://github.com/ahmedAlSaleh/al-rayyan-restaurant) | Next.js restaurant website |
+| [Dialora Website](https://github.com/ahmedAlSaleh/Dialora-web-site) | React · Vite |
+| [Advertising Platform](https://github.com/ahmedAlSaleh/advertising-user_sb) | Advertising application frontend |
+| [Store Control Panel](https://github.com/ahmedAlSaleh/my_stor_control_panel) | Store management interface |
 
-</td>
-<td width="50%" valign="top">
+<div align="right">
 
-### 🍽️ Al Qaisar Restaurant
-A TypeScript-based restaurant website project.
-
-[View repository →](https://github.com/ahmedAlSaleh/Al-Qaisar-Restaurant)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍽️ Al Rayyan Restaurant
-A restaurant website built with Next.js.
-
-[View repository →](https://github.com/ahmedAlSaleh/al-rayyan-restaurant)
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Dialora Website
-A web project using React and Vite.
-
-[View repository →](https://github.com/ahmedAlSaleh/Dialora-web-site)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📣 Advertising Platform
-Frontend repository for an advertising-related application.
-
-[View repository →](https://github.com/ahmedAlSaleh/advertising-user_sb)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Store Control Panel
-A repository for a store management/control panel project.
-
-[View repository →](https://github.com/ahmedAlSaleh/my_stor_control_panel)
-
-</td>
-</tr>
-</table>
-
-### More work
-
-[Explore all public repositories →](https://github.com/ahmedAlSaleh?tab=repositories) · [Visit my portfolio →](https://ahmedalsaleh.github.io/my-portfolio/)
-
-## GitHub activity
-
-<div align="center">
-
-![GitHub contribution streak](https://streak-stats.demolab.com?user=ahmedAlSaleh&theme=github-dark-blue&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedAlSaleh&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-<sub>Language statistics describe public repository code, not proficiency.</sub>
+[**Explore all repositories ↗**](https://github.com/ahmedAlSaleh?tab=repositories)
 
 </div>
+
+<br />
 
 ---
 
 <div align="center">
 
-### Have a project or an engineering opportunity?
+**Open to remote software engineering opportunities and selected freelance work.**
 
-[**Portfolio**](https://ahmedalsaleh.github.io/my-portfolio/) · [**Email**](mailto:Asmlahmd15@gmail.com) · [**WhatsApp**](https://wa.me/963992086301)
+[Portfolio](https://ahmedalsaleh.github.io/my-portfolio/) &nbsp;·&nbsp; [GitHub](https://github.com/ahmedAlSaleh) &nbsp;·&nbsp; [Get in touch](mailto:Asmlahmd15@gmail.com)
 
-<sub>Designed to highlight real projects, not vanity metrics.</sub>
+<sub>Designed around shipped work, clear technical focus, and real project links.</sub>
 
 </div>
