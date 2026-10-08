@@ -30,6 +30,12 @@
 
 <br />
 
+<img src="https://img.shields.io/badge/iPhone_%26_iOS-1B2838?style=flat-square&amp;logo=apple&amp;logoColor=white" alt="Apple iPhone and iOS" />
+<img src="https://img.shields.io/badge/Android-1B2838?style=flat-square&amp;logo=android&amp;logoColor=3DDC84" alt="Android" />
+<img src="https://img.shields.io/badge/Flutter_Apps-1B2838?style=flat-square&amp;logo=flutter&amp;logoColor=48C7ED" alt="Flutter mobile applications" />
+
+<br />
+
 **Flutter & Dart** · Android & iOS · Cross-platform apps · Firebase · Maps · Push notifications · Real-time features
 
 </div>
@@ -77,31 +83,35 @@ React · Next.js · Git · GitHub · Docker · API testing · CI/CD
 
 ### Featured applications & projects
 
+<sub>Selected products — real project links, with custom illustrated previews.</sub>
+
 <a href="https://play.google.com/store/apps/details?id=com.revizo.ahmed.dose.programmik.www.mobile_app"><img src="./assets/cards/revizo.svg" alt="Revizo — AI-powered mobile learning app illustration" width="100%" /></a>
 
-**Revizo · Flutter Mobile App** — AI-assisted study experience built with Flutter, Node.js / TypeScript and Supabase. Students can work with PDF learning materials, summaries and practice questions.  
+📱 **Revizo · Flutter Mobile App** — AI-assisted study experience built with Flutter, Node.js / TypeScript and Supabase. Students can work with PDF learning materials, summaries and practice questions.  
 [View on Google Play ↗](https://play.google.com/store/apps/details?id=com.revizo.ahmed.dose.programmik.www.mobile_app) &nbsp;·&nbsp; <sub>Source code is private.</sub>
 
 <br />
 
 <a href="https://ahmedalsaleh.github.io/programmik/"><img src="./assets/cards/programmik.svg" alt="Programmik — modern Next.js website illustration" width="100%" /></a>
 
-**Programmik** — Next.js website showcasing digital services, built with TypeScript and published via GitHub Pages.  
+🌐 **Programmik** — Next.js website showcasing digital services, built with TypeScript and published via GitHub Pages.  
 [Live website ↗](https://ahmedalsaleh.github.io/programmik/) &nbsp;·&nbsp; [Source code ↗](https://github.com/ahmedAlSaleh/programmik)
 
 <br />
 
-### Other projects
+### More engineering work
+
+<sub>Backend APIs, dashboards, product interfaces and production-oriented web projects.</sub>
 
 | Project | Focus |
 | :--- | :--- |
-| [Souqli Backend API](https://github.com/ahmedAlSaleh/souqli_bscckend) | Node.js · Express · MySQL · JWT · RBAC |
-| [Souqli Admin Panel](https://github.com/ahmedAlSaleh/souqli-admin-panel) | Administration interface |
-| [Al Qaisar Restaurant](https://github.com/ahmedAlSaleh/Al-Qaisar-Restaurant) | Restaurant website |
-| [Al Rayyan Restaurant](https://github.com/ahmedAlSaleh/al-rayyan-restaurant) | Next.js restaurant website |
-| [Dialora Website](https://github.com/ahmedAlSaleh/Dialora-web-site) | React · Vite |
-| [Advertising Platform](https://github.com/ahmedAlSaleh/advertising-user_sb) | Advertising application frontend |
-| [Store Control Panel](https://github.com/ahmedAlSaleh/my_stor_control_panel) | Store management interface |
+| ⚙️ [Souqli Backend API](https://github.com/ahmedAlSaleh/souqli_bscckend) | Node.js · Express · MySQL · JWT · RBAC |
+| 🧩 [Souqli Admin Panel](https://github.com/ahmedAlSaleh/souqli-admin-panel) | Administration interface |
+| 🍽️ [Al Qaisar Restaurant](https://github.com/ahmedAlSaleh/Al-Qaisar-Restaurant) | Restaurant website |
+| 🍽️ [Al Rayyan Restaurant](https://github.com/ahmedAlSaleh/al-rayyan-restaurant) | Next.js restaurant website |
+| 💬 [Dialora Website](https://github.com/ahmedAlSaleh/Dialora-web-site) | React · Vite |
+| 📣 [Advertising Platform](https://github.com/ahmedAlSaleh/advertising-user_sb) | Advertising application frontend |
+| 🛒 [Store Control Panel](https://github.com/ahmedAlSaleh/my_stor_control_panel) | Store management interface |
 
 <div align="right">
 
