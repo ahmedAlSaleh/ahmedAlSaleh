@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Programmik Next.js web development showcase illustration">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1422"/><stop offset=".62" stop-color="#0E1A2C"/><stop offset="1" stop-color="#102335"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#78A7FF"/><stop offset="1" stop-color="#46DCCF"/></linearGradient>
+<radialGradient id="flare"><stop stop-color="#78A7FF" stop-opacity=".16"/><stop offset="1" stop-color="#78A7FF" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="0" y="0" width="1200" height="360" rx="26" fill="url(#bg)" stroke="none" stroke-width="1" />
+<rect x="1" y="1" width="1198" height="358" rx="25" fill="none" stroke="#294051" stroke-width="1" />
+<circle cx="961" cy="178" r="260" fill="url(#flare)"/>
+<rect x="48" y="43" width="7" height="25" rx="3.5" fill="#78A7FF" stroke="none" stroke-width="1" />
+<text x="70" y="61" fill="#8AAABC" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="3">02 / WEB EXPERIENCE</text>
+<text x="51" y="121" fill="#F7FBFD" font-size="47" font-weight="700" font-family="Arial, Helvetica, sans-serif" >Programmik</text>
+<text x="51" y="162" fill="#C3D4E3" font-size="21" font-weight="400" font-family="Arial, Helvetica, sans-serif" >Digital experiences with purpose.</text>
+<text x="51" y="209" fill="#90A9BB" font-size="17" font-weight="400" font-family="Arial, Helvetica, sans-serif" >A modern service website built with Next.js,</text>
+<text x="51" y="235" fill="#90A9BB" font-size="17" font-weight="400" font-family="Arial, Helvetica, sans-serif" >TypeScript and a static deployment workflow.</text>
+<rect x="51" y="280" width="96" height="34" rx="17" fill="#132438" stroke="#284157" stroke-width="1" /><text x="69" y="303" fill="#EAF2F9" font-size="13" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.3">Next.js</text>
+<rect x="159" y="280" width="128" height="34" rx="17" fill="#132438" stroke="#284157" stroke-width="1" /><text x="177" y="303" fill="#AFCCFF" font-size="13" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.3">TypeScript</text>
+<rect x="299" y="280" width="139" height="34" rx="17" fill="#132438" stroke="#284157" stroke-width="1" /><text x="317" y="303" fill="#A4E8E0" font-size="13" font-weight="600" font-family="Arial, Helvetica, sans-serif" letter-spacing="0.3">GitHub Pages</text>
+<rect x="649" y="53" width="492" height="255" rx="18" fill="#0A1320" stroke="#476079" stroke-width="2" />
+<rect x="649" y="53" width="492" height="34" rx="14" fill="#172B3D" stroke="none" stroke-width="1" />
+<rect x="649" y="70" width="492" height="17" rx="0" fill="#172B3D" stroke="none" stroke-width="1" />
+<circle cx="669" cy="70" r="5" fill="#DE7575"/><circle cx="684" cy="70" r="5" fill="#EBCB75"/><circle cx="699" cy="70" r="5" fill="#6BD9C1"/>
+<rect x="745" y="64" width="271" height="13" rx="6" fill="#243D50" stroke="none" stroke-width="1" />
+<text x="766" y="73" fill="#9CBBCD" font-size="8" font-weight="400" font-family="Arial, Helvetica, sans-serif" >programmik  /  home</text>
+<rect x="668" y="100" width="453" height="188" rx="9" fill="#101D2F" stroke="none" stroke-width="1" />
+<text x="689" y="126" fill="#A5FFF1" font-size="19" font-weight="700" font-family="Arial, Helvetica, sans-serif" >P /</text>
+<text x="1008" y="122" fill="#91B2C9" font-size="10" font-weight="400" font-family="Arial, Helvetica, sans-serif" >Work    Services    Contact</text>
+<rect x="689" y="143" width="88" height="2" rx="1" fill="#57DCCC" stroke="none" stroke-width="1" />
+<text x="689" y="174" fill="#F2F9FD" font-size="27" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="-0.5">MAKE IDEAS</text>
+<text x="689" y="208" fill="#F2F9FD" font-size="27" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="-0.5">HAPPEN.</text>
+<text x="689" y="229" fill="#95AFC2" font-size="10" font-weight="400" font-family="Arial, Helvetica, sans-serif" >Modern web solutions, thoughtfully built.</text>
+<rect x="689" y="247" width="118" height="24" rx="8" fill="#2BAFAD" stroke="none" stroke-width="1" />
+<text x="705" y="263" fill="#0A1B2A" font-size="9" font-weight="700" font-family="Arial, Helvetica, sans-serif" >EXPLORE SERVICES</text>
+<path d="M961 144L1062 144L1093 174L1070 233L973 255L938 213Z" fill="#1D4255" stroke="#35637B"/>
+<path d="M953 213L994 165L1056 171L1033 229L983 244Z" fill="#2C797D" fill-opacity=".7"/>
+<path d="M1011 144L1051 180L1090 172" fill="none" stroke="#62D9D6" stroke-width="2" stroke-opacity=".6"/>
+<circle cx="1011" cy="144" r="5" fill="#67D6D5"/>
+<circle cx="1090" cy="172" r="5" fill="#94B9FC"/>
+<circle cx="983" cy="244" r="5" fill="#67D6D5"/>
+<rect x="914" y="297" width="93" height="5" rx="2" fill="#29485D" stroke="none" stroke-width="1" />
+</svg>
